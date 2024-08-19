@@ -1,5 +1,5 @@
 # qmenu
-qmenu is a modular quick-access menu program, designed to facilitate easy access to applications, cli commands, and other applications.
+qmenu is a modular quick-access menu program, designed to facilitate easy access to applications, cli commands, and other tools. The program also includes a suite of system control menus that can facilitate adjustments to brightness, powerdraw, volume and the menus appearance.
 
 Dependencies:
 The core application (qmenu.sh, main_menu.sh and menu_engine.sh) are simple scripts that will not require the average user to install any additonal software.
